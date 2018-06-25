@@ -45,7 +45,33 @@ h3 span{
   padding-left: 5px;
 }
 .jogadores img{
-  width: 7.7%; height: 10%; max-height: 180px;
+  width: 135px; height: 180px; max-height: 180px;
   border: 2px solid green;
   margin-right: 5px;
+}
+td{
+  text-align: center;
+}
+main p{
+  display: inline-block;
+}
+a:link{
+  color:white;
+  font-family: 'Bree Serif', serif;
+  text-decoration: none;
+}
+a:visited{
+  color:white;
+  font-family: 'Bree Serif', serif;
+  text-decoration: none;
+}
+a:hover{
+  color:green;
+  font-family: 'Bree Serif', serif;
+  text-decoration: none;
+}
+a:active{
+  color:white;
+  font-family: 'Bree Serif', serif;
+  text-decoration: none;
 }
