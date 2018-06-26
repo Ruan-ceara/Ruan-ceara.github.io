@@ -35,7 +35,7 @@ main{
   color: white;
   padding-left: 5px;
 }
-.expansao{
+.botao-expansao{
   background-color: buttonface;
   display: inline;
   cursor: pointer;
@@ -74,4 +74,19 @@ a:active{
   color:white;
   font-family: 'Bree Serif', serif;
   text-decoration: none;
+}
+#campeao2002{
+  width: 350px;
+}
+#resultados{
+  width:600px;
+  height:400px;
+  max-height: 400px;
+}
+div{
+  height: 0em;
+  overflow:hidden;
+}
+div.expandido{
+  height:auto;
 }
